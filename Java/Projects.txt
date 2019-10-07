@@ -1,0 +1,2 @@
+abc,3,a,b,c,a,b,0,c,0,b,a,0,c,0,c,a,0,b,0 
+ABC,3,A,B,C,A,B,0,C,0,B,A,0,C,0,C,A,0,B,0 
